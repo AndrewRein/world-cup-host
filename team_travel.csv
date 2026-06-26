@@ -1,0 +1,97 @@
+travel_id,team_name,group_id,scenario,game_1_stadium_id,game_2_stadium_id,game_3_stadium_id,game_1_stadium,game_2_stadium,game_3_stadium,game_1_to_2_km,game_2_to_3_km,total_km,pair_dist_km
+1,Mexico,A,proposed,13,38,13,Estadio Akron,Estadio Corregidora,Estadio Akron,322.8,322.8,645.6,322.8
+2,South Africa,A,proposed,13,13,38,Estadio Akron,Estadio Akron,Estadio Corregidora,0.0,322.8,322.8,322.8
+3,South Korea,A,proposed,38,38,38,Estadio Corregidora,Estadio Corregidora,Estadio Corregidora,0.0,0.0,0.0,322.8
+4,Czechia,A,proposed,38,13,13,Estadio Corregidora,Estadio Akron,Estadio Akron,322.8,0.0,322.8,322.8
+5,Canada,B,proposed,3,4,3,BMO Field,Stade Olympique,BMO Field,511.4,511.4,1022.8,511.4
+6,Bosnia and Herzegovina,B,proposed,3,3,4,BMO Field,BMO Field,Stade Olympique,0.0,511.4,511.4,511.4
+7,Qatar,B,proposed,4,4,4,Stade Olympique,Stade Olympique,Stade Olympique,0.0,0.0,0.0,511.4
+8,Switzerland,B,proposed,4,3,3,Stade Olympique,BMO Field,BMO Field,511.4,0.0,511.4,511.4
+9,Brazil,C,proposed,25,26,25,Memorial Stadium,Arrowhead Stadium,Memorial Stadium,273.3,273.3,546.5,273.3
+10,Morocco,C,proposed,25,25,26,Memorial Stadium,Memorial Stadium,Arrowhead Stadium,0.0,273.3,273.3,273.3
+11,Haiti,C,proposed,26,26,26,Arrowhead Stadium,Arrowhead Stadium,Arrowhead Stadium,0.0,0.0,0.0,273.3
+12,Scotland,C,proposed,26,25,25,Arrowhead Stadium,Memorial Stadium,Memorial Stadium,273.3,0.0,273.3,273.3
+13,USA,D,proposed,27,28,27,Gillette Stadium,Lincoln Financial Field,Gillette Stadium,408.1,408.1,816.2,408.1
+14,Paraguay,D,proposed,27,27,28,Gillette Stadium,Gillette Stadium,Lincoln Financial Field,0.0,408.1,408.1,408.1
+15,Australia,D,proposed,28,28,28,Lincoln Financial Field,Lincoln Financial Field,Lincoln Financial Field,0.0,0.0,0.0,408.1
+16,Türkiye,D,proposed,28,27,27,Lincoln Financial Field,Gillette Stadium,Gillette Stadium,408.1,0.0,408.1,408.1
+17,Germany,E,proposed,15,16,15,Michigan Stadium,Ohio Stadium,Michigan Stadium,259.1,259.1,518.1,259.1
+18,Curaçao,E,proposed,15,15,16,Michigan Stadium,Michigan Stadium,Ohio Stadium,0.0,259.1,259.1,259.1
+19,Ivory Coast,E,proposed,16,16,16,Ohio Stadium,Ohio Stadium,Ohio Stadium,0.0,0.0,0.0,259.1
+20,Ecuador,E,proposed,16,15,15,Ohio Stadium,Michigan Stadium,Michigan Stadium,259.1,0.0,259.1,259.1
+21,Netherlands,F,proposed,21,22,21,Neyland Stadium,Clemson Memorial Stadium,Neyland Stadium,172.6,172.6,345.1,172.6
+22,Japan,F,proposed,21,21,22,Neyland Stadium,Neyland Stadium,Clemson Memorial Stadium,0.0,172.6,172.6,172.6
+23,Sweden,F,proposed,22,22,22,Clemson Memorial Stadium,Clemson Memorial Stadium,Clemson Memorial Stadium,0.0,0.0,0.0,172.6
+24,Tunisia,F,proposed,22,21,21,Clemson Memorial Stadium,Neyland Stadium,Neyland Stadium,172.6,0.0,172.6,172.6
+25,Belgium,G,proposed,20,19,20,NRG Stadium,Tiger Stadium,NRG Stadium,414.8,414.8,829.6,414.8
+26,Egypt,G,proposed,20,20,19,NRG Stadium,NRG Stadium,Tiger Stadium,0.0,414.8,414.8,414.8
+27,Iran,G,proposed,19,19,19,Tiger Stadium,Tiger Stadium,Tiger Stadium,0.0,0.0,0.0,414.8
+28,New Zealand,G,proposed,19,20,20,Tiger Stadium,NRG Stadium,NRG Stadium,414.8,0.0,414.8,414.8
+29,Spain,H,proposed,8,9,8,Estadio Cuauhtémoc,Estadio Morelos,Estadio Cuauhtémoc,322.3,322.3,644.7,322.3
+30,Cape Verde,H,proposed,8,8,9,Estadio Cuauhtémoc,Estadio Cuauhtémoc,Estadio Morelos,0.0,322.3,322.3,322.3
+31,Saudi Arabia,H,proposed,9,9,9,Estadio Morelos,Estadio Morelos,Estadio Morelos,0.0,0.0,0.0,322.3
+32,Uruguay,H,proposed,9,8,8,Estadio Morelos,Estadio Cuauhtémoc,Estadio Cuauhtémoc,322.3,0.0,322.3,322.3
+33,France,I,proposed,17,18,17,Jordan-Hare Stadium,Bryant-Denny Stadium,Jordan-Hare Stadium,203.9,203.9,407.7,203.9
+34,Senegal,I,proposed,17,17,18,Jordan-Hare Stadium,Jordan-Hare Stadium,Bryant-Denny Stadium,0.0,203.9,203.9,203.9
+35,Iraq,I,proposed,18,18,18,Bryant-Denny Stadium,Bryant-Denny Stadium,Bryant-Denny Stadium,0.0,0.0,0.0,203.9
+36,Norway,I,proposed,18,17,17,Bryant-Denny Stadium,Jordan-Hare Stadium,Jordan-Hare Stadium,203.9,0.0,203.9,203.9
+37,Argentina,J,proposed,1,2,1,Mosaic Stadium,Princess Auto Stadium,Mosaic Stadium,536.3,536.3,1072.6,536.3
+38,Algeria,J,proposed,1,1,2,Mosaic Stadium,Mosaic Stadium,Princess Auto Stadium,0.0,536.3,536.3,536.3
+39,Austria,J,proposed,2,2,2,Princess Auto Stadium,Princess Auto Stadium,Princess Auto Stadium,0.0,0.0,0.0,536.3
+40,Jordan,J,proposed,2,1,1,Princess Auto Stadium,Mosaic Stadium,Mosaic Stadium,536.3,0.0,536.3,536.3
+41,Portugal,K,proposed,23,24,23,Autzen Stadium,Lumen Field,Autzen Stadium,397.6,397.6,795.1,397.6
+42,DR Congo,K,proposed,23,23,24,Autzen Stadium,Autzen Stadium,Lumen Field,0.0,397.6,397.6,397.6
+43,Uzbekistan,K,proposed,24,24,24,Lumen Field,Lumen Field,Lumen Field,0.0,0.0,0.0,397.6
+44,Colombia,K,proposed,24,23,23,Lumen Field,Autzen Stadium,Autzen Stadium,397.6,0.0,397.6,397.6
+45,England,L,proposed,29,30,29,Lambeau Field,Camp Randall Stadium,Lambeau Field,192.5,192.5,385.0,192.5
+46,Croatia,L,proposed,29,29,30,Lambeau Field,Lambeau Field,Camp Randall Stadium,0.0,192.5,192.5,192.5
+47,Ghana,L,proposed,30,30,30,Camp Randall Stadium,Camp Randall Stadium,Camp Randall Stadium,0.0,0.0,0.0,192.5
+48,Panama,L,proposed,30,29,29,Camp Randall Stadium,Lambeau Field,Lambeau Field,192.5,0.0,192.5,192.5
+1001,Mexico,A,actual,14,13,14,Estadio Azteca,Estadio Akron,Estadio Azteca,476.5,476.5,952.9,
+1002,South Africa,A,actual,14,33,10,Estadio Azteca,Mercedes-Benz Stadium,Estadio BBVA,2171.1,1771.3,3942.4,
+1003,South Korea,A,actual,13,13,10,Estadio Akron,Estadio Akron,Estadio BBVA,0.0,644.6,644.6,
+1004,Czechia,A,actual,13,33,14,Estadio Akron,Mercedes-Benz Stadium,Estadio Azteca,2373.0,2171.1,4544.0,
+1005,Canada,B,actual,3,7,7,BMO Field,BC Place,BC Place,3356.7,0.0,3356.7,
+1006,Bosnia and Herzegovina,B,actual,3,32,24,BMO Field,SoFi Stadium,Lumen Field,3504.4,1553.1,5057.6,
+1007,Qatar,B,actual,37,7,24,Levi's Stadium,BC Place,Lumen Field,1323.5,195.6,1519.1,
+1008,Switzerland,B,actual,37,32,7,Levi's Stadium,SoFi Stadium,BC Place,504.6,1748.5,2253.1,
+1009,Brazil,C,actual,35,28,36,MetLife Stadium,Lincoln Financial Field,Hard Rock Stadium,137.4,1620.2,1757.6,
+1010,Morocco,C,actual,35,27,33,MetLife Stadium,Gillette Stadium,Mercedes-Benz Stadium,273.9,1475.8,1749.7,
+1011,Haiti,C,actual,27,28,33,Gillette Stadium,Lincoln Financial Field,Mercedes-Benz Stadium,408.1,1067.7,1475.8,
+1012,Scotland,C,actual,27,27,36,Gillette Stadium,Gillette Stadium,Hard Rock Stadium,0.0,1972.5,1972.5,
+1013,USA,D,actual,32,24,32,SoFi Stadium,Lumen Field,SoFi Stadium,1553.1,1553.1,3106.3,
+1014,Paraguay,D,actual,32,37,37,SoFi Stadium,Levi's Stadium,Levi's Stadium,504.6,0.0,504.6,
+1015,Australia,D,actual,7,24,37,BC Place,Lumen Field,Levi's Stadium,195.6,1133.7,1329.3,
+1016,Türkiye,D,actual,7,37,32,BC Place,Levi's Stadium,SoFi Stadium,1323.5,504.6,1828.0,
+1017,Germany,E,actual,20,3,35,NRG Stadium,BMO Field,MetLife Stadium,2099.7,540.2,2639.9,
+1018,Curaçao,E,actual,20,26,28,NRG Stadium,Arrowhead Stadium,Lincoln Financial Field,1044.7,1657.4,2702.1,
+1019,Ivory Coast,E,actual,28,3,28,Lincoln Financial Field,BMO Field,Lincoln Financial Field,544.4,544.4,1088.8,
+1020,Ecuador,E,actual,28,26,35,Lincoln Financial Field,Arrowhead Stadium,MetLife Stadium,1657.4,1747.3,3404.7,
+1021,Netherlands,F,actual,31,20,26,AT&T Stadium,NRG Stadium,Arrowhead Stadium,376.4,1044.7,1421.1,
+1022,Japan,F,actual,31,10,31,AT&T Stadium,Estadio BBVA,AT&T Stadium,844.2,844.2,1688.3,
+1023,Sweden,F,actual,10,20,31,Estadio BBVA,NRG Stadium,AT&T Stadium,652.3,376.4,1028.6,
+1024,Tunisia,F,actual,10,10,26,Estadio BBVA,Estadio BBVA,Arrowhead Stadium,0.0,1582.0,1582.0,
+1025,Belgium,G,actual,24,32,7,Lumen Field,SoFi Stadium,BC Place,1553.1,1748.5,3301.7,
+1026,Egypt,G,actual,24,7,24,Lumen Field,BC Place,Lumen Field,195.6,195.6,391.3,
+1027,Iran,G,actual,32,32,24,SoFi Stadium,SoFi Stadium,Lumen Field,0.0,1553.1,1553.1,
+1028,New Zealand,G,actual,32,7,7,SoFi Stadium,BC Place,BC Place,1748.5,0.0,1748.5,
+1029,Spain,H,actual,33,33,13,Mercedes-Benz Stadium,Mercedes-Benz Stadium,Estadio Akron,0.0,2373.0,2373.0,
+1030,Cape Verde,H,actual,33,36,20,Mercedes-Benz Stadium,Hard Rock Stadium,NRG Stadium,955.1,1547.1,2502.2,
+1031,Saudi Arabia,H,actual,36,33,20,Hard Rock Stadium,Mercedes-Benz Stadium,NRG Stadium,955.1,1134.7,2089.8,
+1032,Uruguay,H,actual,36,36,13,Hard Rock Stadium,Hard Rock Stadium,Estadio Akron,0.0,2439.3,2439.3,
+1033,France,I,actual,35,28,27,MetLife Stadium,Lincoln Financial Field,Gillette Stadium,137.4,408.1,545.5,
+1034,Senegal,I,actual,35,35,3,MetLife Stadium,MetLife Stadium,BMO Field,0.0,540.2,540.2,
+1035,Iraq,I,actual,27,28,3,Gillette Stadium,Lincoln Financial Field,BMO Field,408.1,544.4,952.5,
+1036,Norway,I,actual,27,35,27,Gillette Stadium,MetLife Stadium,Gillette Stadium,273.9,273.9,547.8,
+1037,Argentina,J,actual,26,31,31,Arrowhead Stadium,AT&T Stadium,AT&T Stadium,738.9,0.0,738.9,
+1038,Algeria,J,actual,26,37,26,Arrowhead Stadium,Levi's Stadium,Arrowhead Stadium,2398.8,2398.8,4797.6,
+1039,Austria,J,actual,37,31,26,Levi's Stadium,AT&T Stadium,Arrowhead Stadium,2314.8,738.9,3053.8,
+1040,Jordan,J,actual,37,37,31,Levi's Stadium,Levi's Stadium,AT&T Stadium,0.0,2314.8,2314.8,
+1041,Portugal,K,actual,20,20,36,NRG Stadium,NRG Stadium,Hard Rock Stadium,0.0,1547.1,1547.1,
+1042,DR Congo,K,actual,20,13,33,NRG Stadium,Estadio Akron,Mercedes-Benz Stadium,1286.7,2373.0,3659.7,
+1043,Uzbekistan,K,actual,14,20,33,Estadio Azteca,NRG Stadium,Mercedes-Benz Stadium,1214.6,1134.7,2349.2,
+1044,Colombia,K,actual,14,13,36,Estadio Azteca,Estadio Akron,Hard Rock Stadium,476.5,2439.3,2915.8,
+1045,England,L,actual,31,27,35,AT&T Stadium,Gillette Stadium,MetLife Stadium,2493.6,273.9,2767.5,
+1046,Croatia,L,actual,31,3,28,AT&T Stadium,BMO Field,Lincoln Financial Field,1955.4,544.4,2499.8,
+1047,Ghana,L,actual,3,27,28,BMO Field,Gillette Stadium,Lincoln Financial Field,686.1,408.1,1094.2,
+1048,Panama,L,actual,3,3,35,BMO Field,BMO Field,MetLife Stadium,0.0,540.2,540.2,

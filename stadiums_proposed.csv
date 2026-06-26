@@ -1,0 +1,38 @@
+stadium_id,stadium_name,city,state_province,country,lat,lon,capacity,is_current_venue,is_proposed_venue,proposed_round,hosted_group,qf_quadrant
+1,Mosaic Stadium,Regina,SK,Canada,50.4586,-104.6014,33000,0,1,group_stage,J,
+2,Princess Auto Stadium,Winnipeg,MB,Canada,49.8079,-97.1427,33234,0,1,group_stage,J,
+3,BMO Field,Toronto,ON,Canada,43.6332,-79.4189,28351,1,1,group_stage,B,
+4,Stade Olympique,Montreal,QC,Canada,45.5598,-73.5514,56040,0,1,group_stage,B,
+5,Commonwealth Stadium,Edmonton,AB,Canada,53.5599,-113.4587,56302,0,1,r32_r16,,QF100
+6,McMahon Stadium,Calgary,AB,Canada,51.0817,-114.1296,37317,0,1,r32_r16,,QF100
+7,BC Place,Vancouver,BC,Canada,49.2768,-123.1118,54320,1,1,qf_semi,,
+8,Estadio Cuauhtémoc,Puebla City,Puebla,Mexico,19.0406,-98.1931,47417,0,1,group_stage,H,
+9,Estadio Morelos,Morelia,Michoacán,Mexico,19.7025,-101.1847,34795,0,1,group_stage,H,
+10,Estadio BBVA,Guadalupe,Nuevo León,Mexico,25.6695,-100.2419,51348,1,1,r32_r16,,QF98
+12,Estadio Jalisco,Guadalajara,Jalisco,Mexico,20.6860,-103.3834,55020,0,1,r32_r16,,QF98
+13,Estadio Akron,Zapopan,Jalisco,Mexico,20.6869,-103.4662,46232,1,1,group_stage,A,
+38,Estadio Corregidora,Querétaro City,Querétaro,Mexico,20.5777,-100.3663,34107,0,1,group_stage,A,
+14,Estadio Azteca,Mexico City,CDMX,Mexico,19.3029,-99.1505,87000,1,1,qf_semi,,
+15,Michigan Stadium,Ann Arbor,MI,USA,42.2659,-83.7483,107601,0,1,group_stage,E,
+16,Ohio Stadium,Columbus,OH,USA,40.0017,-83.0198,102780,0,1,group_stage,E,
+17,Jordan-Hare Stadium,Auburn,AL,USA,32.6024,-85.4898,88043,0,1,group_stage,I,
+18,Bryant-Denny Stadium,Tuscaloosa,AL,USA,33.2087,-87.5508,100077,0,1,group_stage,I,
+19,Tiger Stadium,Baton Rouge,LA,USA,30.4120,-91.1837,102321,0,1,group_stage,G,
+20,NRG Stadium,Houston,TX,USA,29.6847,-95.4107,72220,1,1,group_stage,G,
+21,Neyland Stadium,Knoxville,TN,USA,35.9551,-83.9250,101915,0,1,group_stage,F,
+22,Clemson Memorial Stadium,Clemson,SC,USA,34.6785,-82.8437,81500,0,1,group_stage,F,
+23,Autzen Stadium,Eugene,OR,USA,44.0568,-123.0686,54000,0,1,group_stage,K,
+24,Lumen Field,Seattle,WA,USA,47.5952,-122.3316,68740,1,1,group_stage,K,
+25,Memorial Stadium,Lincoln,NE,USA,40.8207,-96.7052,85458,0,1,group_stage,C,
+26,Arrowhead Stadium,Kansas City,MO,USA,39.0489,-94.4839,76416,1,1,group_stage,C,
+27,Gillette Stadium,Foxborough,MA,USA,42.0909,-71.2643,65878,1,1,group_stage,D,
+28,Lincoln Financial Field,Philadelphia,PA,USA,39.9008,-75.1675,67594,1,1,group_stage,D,
+29,Lambeau Field,Green Bay,WI,USA,44.5013,-88.0622,81441,0,1,group_stage,L,
+30,Camp Randall Stadium,Madison,WI,USA,43.0700,-89.4115,76057,0,1,group_stage,L,
+31,AT&T Stadium,Arlington,TX,USA,32.7480,-97.0945,80000,1,1,r32_r16,,QF97
+32,SoFi Stadium,Inglewood,CA,USA,33.9534,-118.3396,70240,1,1,r32_r16,,QF99
+33,Mercedes-Benz Stadium,Atlanta,GA,USA,33.7553,-84.4006,71000,1,1,r32_r16,,QF97
+34,Empower Field at Mile High,Denver,CO,USA,39.7439,-105.0201,76125,0,1,r32_r16,,QF99
+35,MetLife Stadium,East Rutherford,NJ,USA,40.8135,-74.0745,82500,1,1,final_third,,
+36,Hard Rock Stadium,Miami Gardens,FL,USA,25.9580,-80.2389,65326,1,0,,,
+37,Levi's Stadium,Santa Clara,CA,USA,37.4033,-121.9700,68500,1,0,,,
